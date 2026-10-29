@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "RiyadsServerPrivateBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "gold.magmanode.com",
+    "port": 25669,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Bot Enabled",
+        "Keeping server active!"
       ]
     },
     "chat-log": true,
